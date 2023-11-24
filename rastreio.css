@@ -1,0 +1,69 @@
+
+.header{
+    background-color: rgb(27, 82, 63);
+    padding: 10px;
+}
+
+.footer{
+    background-color: rgb(27, 82, 63);
+    padding: 9px;
+    color:white;
+    text-align: center;
+}
+
+body{
+    background-color: #222;
+}
+
+section{
+    text-align: center;
+    background-color:rgb(61, 61, 61);
+    padding: 10px;
+    margin: auto;
+    border-radius: 11px;
+    width: 450px;
+}
+
+h3{
+    color: rgb(232, 229, 67);
+    font-size: 27px;
+    text-align: center;
+}
+
+text{
+font-size: 17px;
+color: white;
+}
+
+#busca {
+    margin:0 auto;
+    padding:0;
+    text-align: center;
+    margin-top: 20px;
+    }
+    
+    #txtbusca {
+    border:0px solid #222;
+    background:#EEE;
+    width:260px;
+    height:23px;
+    margin:0 auto;
+    padding:5px 5px 5px;
+    }
+
+    #btnBusca {
+    background:rgb(27, 82, 63);
+    border:0px solid #222;
+    color:#FFF; 
+    margin:0 auto;
+    padding:10px;
+    border:0 none;
+    font-size:11px;
+    font-weight:bold;
+    text-transform:uppercase;
+    }
+
+    #btnBusca:hover {
+    background:#99cccc; 
+    }
+    
